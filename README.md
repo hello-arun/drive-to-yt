@@ -40,5 +40,6 @@ https://console.cloud.google.com/cloud-resource-manager
 7. Now go to `Credentials` > `+ CREATE CREDENTIALS` > `OAuth client ID`.
 8. Select `Application type` to `Desktop app` and give some name. and `CREATE`.
 9. Now your `Client ID` and `Client Secret` will be visible to your screen. Copy them. They will be required later.
+10 Now open `DRIVE-to-YT` file in google collab and follow the notebook instructions. and your drive files are ready to be uploaded on youtube.
 
 
